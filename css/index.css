@@ -23,7 +23,7 @@ body {
   padding: 40px;
   background-color: rgb(200, 200, 199);
 }
-.image2 {
+.image2, .image {
   width: 80%;
 }
 
