@@ -1,0 +1,38 @@
+* {
+  color: rgb(6, 6, 6);
+}
+
+img {
+  border-radius: 50px;
+}
+
+.image,
+.header,
+,
+.image2 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+h1 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: rgb(93, 222, 199);
+  text-shadow: 1px 1px 2px black;
+}
+body {
+  padding: 40px;
+  background-color: rgb(200, 200, 199);
+}
+.image2 {
+  width: 80%;
+}
+
+span {
+  color: rgb(255, 255, 255);
+  text-shadow: 1px 1px 2px black;
+  text-transform: capitalize;
+}
+
+#slideshow {
+  width: 80%;
+}
